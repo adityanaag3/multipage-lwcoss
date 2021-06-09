@@ -5,7 +5,7 @@
     text-align: center;
     overflow: hidden;
     position: relative;
-    width:300px;
+    width: 300px;
     margin: 0 auto;
 }
 
@@ -16,12 +16,12 @@ img {
     z-index: 1;
     position: relative;
     border-radius: 50%;
-  }
+}
 
-  button{
+button {
     background: blueviolet;
     border: none;
     padding: 15px;
     width: 150px;
     color: white;
-  }
+}

@@ -1,1 +1,105 @@
-[{"_allAttributes":null,"_properties":null,"_methods":null,"file":"/Users/atopalli/Documents/Code/lwcoss/qt-multi/my-multipage-app/src/modules/my/app/app.js","metadata":{"decorators":[],"declarationLoc":{"start":{"line":3,"column":0},"end":{"line":3,"column":52}},"classMembers":[],"exports":[{"type":"ExportDefaultDeclaration"}]},"updatedAt":"2021-03-18T08:53:36.688Z"},{"_allAttributes":null,"_properties":null,"_methods":null,"file":"/Users/atopalli/Documents/Code/lwcoss/qt-multi/my-multipage-app/src/modules/my/greeting/greeting.js","metadata":{"decorators":[{"type":"api","targets":[{"type":"property","name":"speed"}]}],"declarationLoc":{"start":{"line":23,"column":0},"end":{"line":68,"column":1}},"classMembers":[{"type":"property","name":"animationSpeed","loc":{"start":{"line":24,"column":4},"end":{"line":24,"column":35}}},{"type":"property","name":"index","loc":{"start":{"line":25,"column":4},"end":{"line":25,"column":14}}},{"type":"property","name":"isAnimating","loc":{"start":{"line":26,"column":4},"end":{"line":26,"column":23}}},{"type":"property","name":"speed","loc":{"start":{"line":28,"column":4},"end":{"line":36,"column":5}},"decorator":"api"},{"type":"property","name":"greeting","loc":{"start":{"line":44,"column":4},"end":{"line":46,"column":5}}},{"type":"property","name":"animationClass","loc":{"start":{"line":49,"column":4},"end":{"line":54,"column":5}}},{"type":"method","name":"handleAnimationEnd","loc":{"start":{"line":57,"column":4},"end":{"line":62,"column":5}}},{"type":"method","name":"updateGreeting","loc":{"start":{"line":65,"column":4},"end":{"line":67,"column":5}}}],"exports":[{"type":"ExportDefaultDeclaration"}]},"updatedAt":"2021-03-18T08:53:36.719Z"}]
+[
+    {
+        "_allAttributes": null,
+        "_properties": null,
+        "_methods": null,
+        "file": "/Users/atopalli/Documents/Code/lwcoss/qt-multi/my-multipage-app/src/modules/my/app/app.js",
+        "metadata": {
+            "decorators": [],
+            "declarationLoc": {
+                "start": { "line": 3, "column": 0 },
+                "end": { "line": 3, "column": 52 }
+            },
+            "classMembers": [],
+            "exports": [{ "type": "ExportDefaultDeclaration" }]
+        },
+        "updatedAt": "2021-03-18T08:53:36.688Z"
+    },
+    {
+        "_allAttributes": null,
+        "_properties": null,
+        "_methods": null,
+        "file": "/Users/atopalli/Documents/Code/lwcoss/qt-multi/my-multipage-app/src/modules/my/greeting/greeting.js",
+        "metadata": {
+            "decorators": [
+                {
+                    "type": "api",
+                    "targets": [{ "type": "property", "name": "speed" }]
+                }
+            ],
+            "declarationLoc": {
+                "start": { "line": 23, "column": 0 },
+                "end": { "line": 68, "column": 1 }
+            },
+            "classMembers": [
+                {
+                    "type": "property",
+                    "name": "animationSpeed",
+                    "loc": {
+                        "start": { "line": 24, "column": 4 },
+                        "end": { "line": 24, "column": 35 }
+                    }
+                },
+                {
+                    "type": "property",
+                    "name": "index",
+                    "loc": {
+                        "start": { "line": 25, "column": 4 },
+                        "end": { "line": 25, "column": 14 }
+                    }
+                },
+                {
+                    "type": "property",
+                    "name": "isAnimating",
+                    "loc": {
+                        "start": { "line": 26, "column": 4 },
+                        "end": { "line": 26, "column": 23 }
+                    }
+                },
+                {
+                    "type": "property",
+                    "name": "speed",
+                    "loc": {
+                        "start": { "line": 28, "column": 4 },
+                        "end": { "line": 36, "column": 5 }
+                    },
+                    "decorator": "api"
+                },
+                {
+                    "type": "property",
+                    "name": "greeting",
+                    "loc": {
+                        "start": { "line": 44, "column": 4 },
+                        "end": { "line": 46, "column": 5 }
+                    }
+                },
+                {
+                    "type": "property",
+                    "name": "animationClass",
+                    "loc": {
+                        "start": { "line": 49, "column": 4 },
+                        "end": { "line": 54, "column": 5 }
+                    }
+                },
+                {
+                    "type": "method",
+                    "name": "handleAnimationEnd",
+                    "loc": {
+                        "start": { "line": 57, "column": 4 },
+                        "end": { "line": 62, "column": 5 }
+                    }
+                },
+                {
+                    "type": "method",
+                    "name": "updateGreeting",
+                    "loc": {
+                        "start": { "line": 65, "column": 4 },
+                        "end": { "line": 67, "column": 5 }
+                    }
+                }
+            ],
+            "exports": [{ "type": "ExportDefaultDeclaration" }]
+        },
+        "updatedAt": "2021-03-18T08:53:36.719Z"
+    }
+]

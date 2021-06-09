@@ -37,7 +37,7 @@
         "build": "lwc-services build -m production -w webpack.config.js",
         "build:development": "lwc-services build",
         "lint": "eslint ./src/**/*.js",
-        "postbuild":"mv dist/index-new.html dist/index.html",
+        "postbuild": "mv dist/index-new.html dist/index.html",
         "prettier": "prettier --write \"**/*.{css,html,js,json,md,ts,yaml,yml}\"",
         "prettier:verify": "prettier --list-different \"**/*.{css,html,js,json,md,ts,yaml,yml}\"",
         "serve": "node scripts/server.js",
@@ -49,6 +49,7 @@
     },
     "devDependencies": {
         "eslint": "^7.22.0",
+        "eslint-plugin-inclusive-language": "^2.1.1",
         "husky": "^5.1.3",
         "lint-staged": "^10.5.4",
         "lwc-services": "^3.0.4",

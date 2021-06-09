@@ -5,11 +5,11 @@ module.exports = {
         index: './src/index.js',
         about: './src/about.js'
     },
-    output:{
+    output: {
         filename: '[name].bundle.[contenthash].js',
         publicPath: '/'
     },
-    plugins:[
+    plugins: [
         new HtmlWebpackPlugin({
             template: './src/about.html',
             filename: 'about/index.html',
